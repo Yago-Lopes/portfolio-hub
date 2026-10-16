@@ -1,4 +1,4 @@
-# Portfólio – [Yago Lopes de Freitas]
+# Portfólio – Yago Lopes de Freitas
 
 Portfólio acadêmico criado para o desafio de versionamento do Bootcamp I.
 
@@ -23,4 +23,4 @@ Portfólio acadêmico criado para o desafio de versionamento do Bootcamp I.
 Depois de configurar o GitHub Pages, adicione aqui o endereço real do site.
 
 ## Autor
-[Yago Lopes de Freitas] — [Engenharia de Software]
+Yago Lopes de Freitas — Engenharia de Software
