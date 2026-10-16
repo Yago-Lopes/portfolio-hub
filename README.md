@@ -19,8 +19,17 @@ Portfólio acadêmico criado para o desafio de versionamento do Bootcamp I.
 - `docs/`: materiais complementares.
 - `assets/`: imagens e recursos.
 
-## Publicação
-Depois de configurar o GitHub Pages, adicione aqui o endereço real do site.
+## Acesso ao portfólio
+
+O portfólio está publicado pelo GitHub Pages e pode ser acessado pelo link abaixo:
+
+[Acesse o site](https://yago-lopes.github.io/portfolio-hub/)
+
+## Versionamento
+
+- **Versão 1.0:** criação da estrutura inicial do portfólio, com HTML, CSS e documentação.
+- **Hospedagem:** GitHub Pages.
+- **Controle de versão:** Git e GitHub.
 
 ## Autor
 Yago Lopes de Freitas — Engenharia de Software
