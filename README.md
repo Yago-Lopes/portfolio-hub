@@ -1,35 +1,22 @@
-# Portfólio – Yago Lopes de Freitas
+# PortfolioHUB 🚀
 
-Portfólio acadêmico criado para o desafio de versionamento do Bootcamp I.
+O **PortfolioHUB** é uma plataforma centralizada desenvolvida para exibir, gerenciar e organizar projetos digitais e portfólios.
 
-## Objetivos
-- Organizar projetos acadêmicos e pessoais.
-- Praticar Git, GitHub e documentação Markdown.
-- Publicar uma página estática com GitHub Pages.
+## 🛠️ Tecnologias Utilizadas
+- HTML5 / CSS3 / JavaScript
+- Git & GitHub (Controle de Versão e Gestão)
+- Google GEMINI (IA para suporte de arquitetura e segurança)
 
-## Tecnologias
-- HTML5
-- CSS3
-- Git e GitHub
+## 🔒 Segurança e Boas Práticas
+- Gerenciamento de credenciais via variáveis de ambiente.
+- Análise contínua de vulnerabilidades ativada (Dependabot / Secret Scanning).
+- Fluxo de trabalho baseado em branches e Pull Requests.
 
-## Estrutura
-- `index.html`: página principal.
-- `style.css`: estilos.
-- `projetos/`: documentação dos projetos.
-- `docs/`: materiais complementares.
-- `assets/`: imagens e recursos.
+## 💻 Como executar o projeto localmente
 
-## Acesso ao portfólio
+```bash
+# Clone o repositório
+git clone [https://github.com/Yago-Lopes/portfolio-hub.git](https://github.com/Yago-Lopes/portfolio-hub.git)
 
-O portfólio está publicado pelo GitHub Pages e pode ser acessado pelo link abaixo:
-
-[Acesse o site](https://yago-lopes.github.io/portfolio-hub/)
-
-## Versionamento
-
-- **Versão 1.0:** criação da estrutura inicial do portfólio, com HTML, CSS e documentação.
-- **Hospedagem:** GitHub Pages.
-- **Controle de versão:** Git e GitHub.
-
-## Autor
-Yago Lopes de Freitas — Engenharia de Software
+# Acesse a pasta do projeto
+cd portfolio-hub
