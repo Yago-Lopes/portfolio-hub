@@ -1,0 +1,11 @@
+# Arquivos de variáveis de ambiente
+.env
+.env.local
+
+# Dependências
+node_modules/
+
+# Arquivos do sistema operacional e IDEs
+.DS_Store
+.vscode/
+.idea/
